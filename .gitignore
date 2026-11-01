@@ -1,0 +1,9 @@
+# macOS & Environment
+.DS_Store
+.env
+__pycache__/
+*.pyc
+
+# Local-Only Personal Study & Interview Handbook (Not Uploaded to GitHub)
+Project_Tutorial_Guide.html
+PROJECT_GUIDE_AND_TUTORIAL.md
